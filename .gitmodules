@@ -1,0 +1,3 @@
+[submodule "Krakatoa/vendor/spdlog"]
+	path = Krakatoa/vendor/spdlog
+	url = https://github.com/gabime/spdlog
